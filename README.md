@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="move.it" title="move.it" src=".github/logo.png" />
+  <img alt="move.it" title="move.it" src="https://github.com/epapini/NLW04-MoveIt/blob/master/logo.png" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">()
 
  <img src="https://img.shields.io/static/v1?label=NLW&message=04&color=8257E5&labelColor=000000" alt="NLW 04" />
 </p>
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/moveit.png" width="100%">
+  <img alt="Happy" src="https://github.com/epapini/NLW04-MoveIt/blob/master/moveit.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -48,7 +48,7 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/epapini/NLW04-MoveIt/blob/master/LICENSE) para mais detalhes.
 
 ---
 
